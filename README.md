@@ -16,7 +16,7 @@ This is a solution to the Solo project: Notes App on Scrimba.
 
 ## Screenshot
 
-![Notes Theme](assets/screenshot.png)
+![Notes Theme](https://github.com/joao82/Scrimba-notes/blob/main/src/assets/screenshot.png)
 
 ## Links
 
