@@ -20,7 +20,7 @@ This is a solution to the Solo project: Notes App on Scrimba.
 
 ## Links
 
-- Live Site URL: [@Netlify](https://scrimba-joao-business-card.netlify.app)
+- Live Site URL: [@Netlify](https://scrimba-notes-app.netlify.app)
 - Solution URL: [@Github](https://github.com/joao82/scrimba-notes)
 
 ## Getting Started with Create React App
